@@ -2,3 +2,4 @@ eureka:
   client:
     consumer:
       responsevalue: 2700
+  hoge: foobar
