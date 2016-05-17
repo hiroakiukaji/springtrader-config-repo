@@ -1,3 +1,4 @@
-foo:
-  bar: hoge
-  baz: fuga
+eureka:
+  client:
+    consumer:
+      responsevalue: 2700
