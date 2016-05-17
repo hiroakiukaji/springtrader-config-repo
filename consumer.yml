@@ -1,6 +1,6 @@
 eureka:
   client:
     consumer:
-      responsevalue: 2700
+      responsevalue: 94000000
   hoge: foobar
 testvalue: 2700
